@@ -1,4 +1,5 @@
 # F1 Race Performance Analysis & Driver Insights 
+
 1️⃣ Data Collection & Storage
 🔹 APIs & Web Scraping:
 
@@ -10,11 +11,8 @@ BeautifulSoup / Selenium (Scraping additional data from F1 websites like formula
 
 🔹 Database & Storage:
 
-PostgreSQL / MySQL / SQL Server (Relational database for structured F1 data)
+ SQL Server (Relational database for structured F1 data)
 
-MongoDB (If storing unstructured data like race telemetry)
-
-Google BigQuery (For scalable cloud-based storage)
 
 2️⃣ Data Processing & Analysis
 🔹 Python (Pandas, NumPy, Scikit-Learn, SciPy)
@@ -30,9 +28,9 @@ Writing queries for analyzing lap times, pit stops, and driver rankings
 3️⃣ Exploratory Data Analysis (EDA) & Visualization
 🔹 Matplotlib & Seaborn (Basic visualizations)
 🔹 Plotly & Dash (Interactive race trends, driver comparisons)
-🔹 Tableau / Power BI (For creating dashboards with insights like lap time trends and pit stop strategies)
+🔹 Tableau  (For creating dashboards with insights like lap time trends and pit stop strategies)
 
-4️⃣ Machine Learning (If doing prediction)
+4️⃣ Machine Learning
 🔹 Scikit-Learn & XGBoost (Regression & classification models)
 
 Predict driver performance based on past races
@@ -48,11 +46,12 @@ Forecasting future lap times and race performance
 Analyzing race footage for advanced insights
 
 5️⃣ Deployment & Sharing Insights
-🔹 Streamlit / Flask / FastAPI
+🔹  FastAPI
 
 Build an interactive web app to showcase driver statistics and race trends
 
-🔹 Tableau 
+🔹  Tableau 
 
 Dashboarding race results, driver insights, and lap time analysis
+
 

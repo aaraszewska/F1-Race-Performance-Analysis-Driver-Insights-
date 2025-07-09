@@ -6,6 +6,20 @@ Which drivers are most consistent?
 How do teams improve across a season?
 
 How important is qualifying position for race outcome?
+📌 Key Questions to Explore
+Driver consistency: Who finishes close to expected or grid position most often?
+
+Qualifying vs. race results: How much does starting position matter?
+
+Pit stop strategies: Which teams use them most effectively?
+
+Weather impact: How do drivers perform in rain vs. dry?
+
+Team dominance: Trends in constructors’ performance over time.
+
+Track specialties: Which drivers excel at specific circuits?
+
+
 # Phase 1: Data Collection
 Primary Data Sources:
 

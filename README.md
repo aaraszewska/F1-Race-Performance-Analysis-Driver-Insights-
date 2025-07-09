@@ -1,5 +1,11 @@
 # F1 Race Performance Analysis & Driver Insights 
+Analyze Formula 1 race data to uncover performance trends, driver insights, and team strategies over recent seasons. Provide data-driven answers to questions like:
 
+Which drivers are most consistent?
+
+How do teams improve across a season?
+
+How important is qualifying position for race outcome?
 # Phase 1: Data Collection
 Primary Data Sources:
 
